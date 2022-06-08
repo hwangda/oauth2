@@ -5,6 +5,7 @@
 |------|---|
 |jdk|11|
 |oauth2-authorization-server|0.2.2|
+|spring-boot|2.7.0|
    
    
 ## 실행 순서
